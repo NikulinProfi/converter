@@ -1,3 +1,3 @@
 # Конвертер валют USD и EUR
 
-[Жми сюда для просмотра](https://nikulinprofi.github.io/converter/)
+[Жми сюда для просмотра](https://converter-phi.vercel.app/)
